@@ -91,7 +91,7 @@ I then exported the data to CSV and used this Python code is analyze and visuali
 - SQL, Tableau. and PowerBi are the top skills fors the most paying jobs in CA
 - It is important to be able to manipulate data and use it visualization tools. The other tools noted indicate a desire for employees to be able to analyze large sets of data.
 
-![Top 10 Products by Revenue](https://github.com/user-attachments/assets/a79aa1da-194a-4bff-9961-cc04a1146e96)
+![Top Skills for CA Jobs](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/Screenshot%202025-09-02%20132219.png)
 
 
 ## 3️⃣ What skills are most in demand for data analysts? 
@@ -116,7 +116,7 @@ LIMIT 5
 **💡Insights**
 - The top 5 skills are Excel, Sql, Python, Tableau, and PowerBi in that order
 
-![Total Revenue By Country](https://github.com/user-attachments/assets/9120d7bd-0a35-4480-88e2-97ae47d91d88)
+![Top Skills in Demand in CA](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/Screenshot%202025-09-02%20133846.png)
 
 
 ## 4️⃣ Which skills are associated with higher salaries for data analysts jobs as a whole?
