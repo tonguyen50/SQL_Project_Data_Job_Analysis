@@ -116,7 +116,7 @@ LIMIT 5
 **💡Insights**
 - The top 5 skills are Excel, Sql, Python, Tableau, and PowerBi in that order
 
-![Top Skills in Demand in CA](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/Screenshot%202025-09-02%20133846.png)
+![Top Skills in Demand in CA](Top Skills Demanded in CA.png)
 
 
 ## 4️⃣ Which skills are associated with higher salaries for data analysts jobs as a whole?
