@@ -4,7 +4,7 @@
 
 I'm currently in the job search for a data analyst role, so I set out to understand what are the skills desired from the top-paying roles in the data analyst job market. Right now, I am located in California so I wanted to focus in on jobs in the area to find insights on how I can improve my skills as a data analyst.
 
-Here is a link to my queries! 
+Here is a [link](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/tree/main/project_sql) to my queries! 
 
 ### Questions to Analyze
 
@@ -17,8 +17,8 @@ To understand the sales trends of our company, I asked the following:
 5. **What are the most optimal skills to learn for a data analyst looking to maximize job market value?**
 
 ### Tools I Used 
-- 📊 - **SQL** (Structured Query Language): Enabled me to interact with the database, extract insights, and answer my key questions through queries.
-- 📁 - **PostgreSQL**: As the database management system, PostgreSQL allowed me to store, query, and manipulate the job posting data.
+- 📊 **SQL** (Structured Query Language): Enabled me to interact with the database, extract insights, and answer my key questions through queries.
+- 📁 **PostgreSQL**: As the database management system, PostgreSQL allowed me to store, query, and manipulate the job posting data.
 - 💻 **Visual Studio Code:** This open-source administration and development platform helped me manage the database and execute SQL queries.
 - 💻 **Python Pandas:** I used the the python pandas library to make a visualization from the insights I gathered from my SQL queries.
 
@@ -91,7 +91,7 @@ I then exported the data to CSV and used this Python code is analyze and visuali
 - SQL, Tableau. and PowerBi are the top skills fors the most paying jobs in CA
 - It is important to be able to manipulate data and use it visualization tools. The other tools noted indicate a desire for employees to be able to analyze large sets of data.
 
-![Top 10 Products by Revenue](https://github.com/user-attachments/assets/a79aa1da-194a-4bff-9961-cc04a1146e96)
+![Top Skills for CA Jobs](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/Screenshot%202025-09-02%20132219.png)
 
 
 ## 3️⃣ What skills are most in demand for data analysts? 
@@ -116,7 +116,7 @@ LIMIT 5
 **💡Insights**
 - The top 5 skills are Excel, Sql, Python, Tableau, and PowerBi in that order
 
-![Total Revenue By Country](https://github.com/user-attachments/assets/9120d7bd-0a35-4480-88e2-97ae47d91d88)
+![Top Skills in Demand in CA](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/Top%20Skills%20Demanded%20in%20CA.png)
 
 
 ## 4️⃣ Which skills are associated with higher salaries for data analysts jobs as a whole?
