@@ -13,7 +13,7 @@ FROM
 LEFT JOIN company_dim company ON jobs.company_id = company.company_id
 WHERE
     job_title_short = 'Data Analyst' AND
-    job_location = 'Anywhere'AND 
+    job_location = 'California'AND 
     salary_year_avg IS NOT NULL
 ORDER BY salary_year_avg DESC
 LIMIT 10;

@@ -43,5 +43,5 @@ FROM
 WHERE
     demand_count > 10
 ORDER BY
-    demand_count DESC,
+    demand_count DESC   ,
     avg_salary DESC
