@@ -17,8 +17,8 @@ To understand the sales trends of our company, I asked the following:
 5. **What are the most optimal skills to learn for a data analyst looking to maximize job market value?**
 
 ### Tools I Used 
-- 📊 - **SQL** (Structured Query Language): Enabled me to interact with the database, extract insights, and answer my key questions through queries.
-- 📁 - **PostgreSQL**: As the database management system, PostgreSQL allowed me to store, query, and manipulate the job posting data.
+- 📊 **SQL** (Structured Query Language): Enabled me to interact with the database, extract insights, and answer my key questions through queries.
+- 📁 **PostgreSQL**: As the database management system, PostgreSQL allowed me to store, query, and manipulate the job posting data.
 - 💻 **Visual Studio Code:** This open-source administration and development platform helped me manage the database and execute SQL queries.
 - 💻 **Python Pandas:** I used the the python pandas library to make a visualization from the insights I gathered from my SQL queries.
 
