@@ -84,7 +84,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-I then exported the data to CSV and used this Python code is analyze and visualize the data further
+I then exported the data to CSV and used this [Python code](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/blob/main/SqlTop10Visualization.ipynb) is analyze and visualize the data further
 
 
 **💡Insights**
