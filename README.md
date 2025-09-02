@@ -4,7 +4,7 @@
 
 I'm currently in the job search for a data analyst role, so I set out to understand what are the skills desired from the top-paying roles in the data analyst job market. Right now, I am located in California so I wanted to focus in on jobs in the area to find insights on how I can improve my skills as a data analyst.
 
-Here is a link to my queries! 
+Here is a [link](https://github.com/tonguyen50/SQL_Project_Data_Job_Analysis/tree/main/project_sql) to my queries! 
 
 ### Questions to Analyze
 
